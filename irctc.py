@@ -9,5 +9,5 @@ def countdown(time_sec):
         time_sec -= 1
 
     print("stop")
-
+    print("start")
 countdown(5)
